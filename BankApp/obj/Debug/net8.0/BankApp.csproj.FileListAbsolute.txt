@@ -1,0 +1,14 @@
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\bin\Debug\net8.0\BankApp.exe
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\bin\Debug\net8.0\BankApp.deps.json
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\bin\Debug\net8.0\BankApp.runtimeconfig.json
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\bin\Debug\net8.0\BankApp.dll
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\bin\Debug\net8.0\BankApp.pdb
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfoInputs.cache
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfo.cs
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.csproj.CoreCompileInputs.cache
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.dll
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\obj\Debug\net8.0\refint\BankApp.dll
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.pdb
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.genruntimeconfig.cache
+C:\HyHuynh\TrueCoders\repos\BankApp\BankApp\obj\Debug\net8.0\ref\BankApp.dll
